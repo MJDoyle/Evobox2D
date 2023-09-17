@@ -1,0 +1,17 @@
+﻿Build started 09/04/2016 22:27:27.
+     1>Project "G:\Users\MD\Google Drive\MultiBlade\MultiBladeClient\MultiBladeClient\MultiBladeClient.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\MultiBladeClient.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         MultiBladeClient.vcxproj -> G:\Users\MD\Google Drive\MultiBlade\MultiBladeClient\Release\MultiBladeClient.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\MultiBladeClient.unsuccessfulbuild".
+         Touching "Release\MultiBladeClient.lastbuildstate".
+     1>Done Building Project "G:\Users\MD\Google Drive\MultiBlade\MultiBladeClient\MultiBladeClient\MultiBladeClient.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.16

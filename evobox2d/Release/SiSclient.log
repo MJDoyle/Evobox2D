@@ -1,0 +1,17 @@
+﻿Build started 26/05/2015 02:58:37.
+     1>Project "C:\Users\MD\Google Drive\SiS\SiSclient\SiSclient\SiSclient.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\SiSclient.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         SiSclient.vcxproj -> C:\Users\MD\Google Drive\SiS\SiSclient\Release\SiSclient.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\SiSclient.unsuccessfulbuild".
+         Touching "Release\SiSclient.lastbuildstate".
+     1>Done Building Project "C:\Users\MD\Google Drive\SiS\SiSclient\SiSclient\SiSclient.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.05

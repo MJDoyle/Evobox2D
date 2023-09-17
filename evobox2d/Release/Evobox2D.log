@@ -1,0 +1,137 @@
+﻿  Config.cpp
+Config.cpp(11): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+Config.cpp(44): warning C4305: 'initializing' : truncation from 'double' to 'float'
+Config.cpp(58): warning C4305: 'initializing' : truncation from 'double' to 'float'
+Config.cpp(65): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+Config.cpp(71): warning C4305: 'initializing' : truncation from 'double' to 'float'
+  main.cpp
+main.cpp(61): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+main.cpp(63): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+main.cpp(65): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+main.cpp(67): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+main.cpp(77): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+main.cpp(83): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+main.cpp(85): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+main.cpp(89): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+  Module.cpp
+  Organism.cpp
+Organism.cpp(286): warning C4305: '=' : truncation from 'double' to 'float32'
+Organism.cpp(287): warning C4305: '=' : truncation from 'double' to 'float32'
+Organism.cpp(305): warning C4244: 'argument' : conversion from 'int' to 'float32', possible loss of data
+Organism.cpp(305): warning C4244: 'argument' : conversion from 'int' to 'float32', possible loss of data
+Organism.cpp(308): warning C4244: 'argument' : conversion from 'double' to 'float32', possible loss of data
+Organism.cpp(308): warning C4244: 'argument' : conversion from 'double' to 'float32', possible loss of data
+Organism.cpp(309): warning C4244: 'argument' : conversion from 'double' to 'float32', possible loss of data
+Organism.cpp(309): warning C4244: 'argument' : conversion from 'double' to 'float32', possible loss of data
+Organism.cpp(310): warning C4244: 'argument' : conversion from 'double' to 'float32', possible loss of data
+Organism.cpp(310): warning C4244: 'argument' : conversion from 'double' to 'float32', possible loss of data
+Organism.cpp(311): warning C4244: 'argument' : conversion from 'double' to 'float32', possible loss of data
+Organism.cpp(311): warning C4244: 'argument' : conversion from 'double' to 'float32', possible loss of data
+Organism.cpp(325): warning C4305: '=' : truncation from 'double' to 'float32'
+Organism.cpp(365): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Organism.cpp(368): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Organism.cpp(392): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Organism.cpp(395): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Organism.cpp(429): warning C4305: '=' : truncation from 'double' to 'float32'
+Organism.cpp(430): warning C4305: '=' : truncation from 'double' to 'float32'
+Organism.cpp(443): warning C4244: 'argument' : conversion from 'int' to 'float32', possible loss of data
+Organism.cpp(443): warning C4244: 'argument' : conversion from 'int' to 'float32', possible loss of data
+Organism.cpp(446): warning C4244: 'argument' : conversion from 'double' to 'float32', possible loss of data
+Organism.cpp(446): warning C4244: 'argument' : conversion from 'double' to 'float32', possible loss of data
+Organism.cpp(447): warning C4244: 'argument' : conversion from 'double' to 'float32', possible loss of data
+Organism.cpp(447): warning C4244: 'argument' : conversion from 'double' to 'float32', possible loss of data
+Organism.cpp(448): warning C4244: 'argument' : conversion from 'double' to 'float32', possible loss of data
+Organism.cpp(448): warning C4244: 'argument' : conversion from 'double' to 'float32', possible loss of data
+Organism.cpp(449): warning C4244: 'argument' : conversion from 'double' to 'float32', possible loss of data
+Organism.cpp(449): warning C4244: 'argument' : conversion from 'double' to 'float32', possible loss of data
+Organism.cpp(463): warning C4305: '=' : truncation from 'double' to 'float32'
+Organism.cpp(632): warning C4018: '<' : signed/unsigned mismatch
+Organism.cpp(701): warning C4018: '<' : signed/unsigned mismatch
+Organism.cpp(708): warning C4018: '>=' : signed/unsigned mismatch
+Organism.cpp(842): warning C4244: 'argument' : conversion from 'int' to 'float32', possible loss of data
+Organism.cpp(873): warning C4244: '=' : conversion from 'double' to 'float32', possible loss of data
+Organism.cpp(874): warning C4244: '=' : conversion from 'double' to 'float32', possible loss of data
+Organism.cpp(893): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+Organism.cpp(893): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+Organism.cpp(895): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Organism.cpp(895): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Organism.cpp(913): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+Organism.cpp(916): warning C4244: 'argument' : conversion from 'double' to 'sf::Uint8', possible loss of data
+Organism.cpp(919): warning C4244: 'argument' : conversion from 'double' to 'sf::Uint8', possible loss of data
+Organism.cpp(922): warning C4244: 'argument' : conversion from 'double' to 'sf::Uint8', possible loss of data
+Organism.cpp(925): warning C4244: 'argument' : conversion from 'double' to 'sf::Uint8', possible loss of data
+Organism.cpp(928): warning C4244: 'argument' : conversion from 'double' to 'sf::Uint8', possible loss of data
+Organism.cpp(952): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+Organism.cpp(954): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+Organism.cpp(954): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+Organism.cpp(1020): warning C4244: '=' : conversion from 'double' to 'float32', possible loss of data
+Organism.cpp(1025): warning C4244: '=' : conversion from 'double' to 'float32', possible loss of data
+Organism.cpp(1032): warning C4244: '=' : conversion from 'double' to 'float32', possible loss of data
+Organism.cpp(1037): warning C4244: '=' : conversion from 'double' to 'float32', possible loss of data
+Organism.cpp(1175): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+Organism.cpp(1177): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+Organism.cpp(1197): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+Organism.cpp(1198): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+Organism.cpp(1231): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+  World.cpp
+World.cpp(80): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+World.cpp(158): warning C4244: 'argument' : conversion from 'const float' to 'unsigned int', possible loss of data
+World.cpp(158): warning C4244: 'argument' : conversion from 'const float' to 'unsigned int', possible loss of data
+World.cpp(183): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+World.cpp(184): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+World.cpp(186): warning C4244: 'argument' : conversion from 'int' to 'float32', possible loss of data
+World.cpp(186): warning C4244: 'argument' : conversion from 'int' to 'float32', possible loss of data
+World.cpp(211): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+World.cpp(212): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+World.cpp(214): warning C4244: 'argument' : conversion from 'int' to 'float32', possible loss of data
+World.cpp(214): warning C4244: 'argument' : conversion from 'int' to 'float32', possible loss of data
+World.cpp(299): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+World.cpp(299): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+World.cpp(299): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+World.cpp(299): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+World.cpp(301): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+World.cpp(301): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+World.cpp(301): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+World.cpp(301): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+World.cpp(301): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+World.cpp(301): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+World.cpp(301): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+World.cpp(301): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+World.cpp(597): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+World.cpp(606): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+World.cpp(1058): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+World.cpp(1060): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+World.cpp(1217): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+World.cpp(1838): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+World.cpp(1838): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+World.cpp(1840): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+World.cpp(1840): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+World.cpp(1846): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+World.cpp(1846): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+World.cpp(1870): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+World.cpp(1870): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+World.cpp(1872): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+World.cpp(1872): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+World.cpp(1878): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+World.cpp(1878): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+World.cpp(1950): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+World.cpp(1950): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+World.cpp(1991): warning C4482: nonstandard extension used: enum 'sf::Keyboard::Key' used in qualified name
+World.cpp(2000): warning C4482: nonstandard extension used: enum 'sf::Keyboard::Key' used in qualified name
+World.cpp(2009): warning C4482: nonstandard extension used: enum 'sf::Keyboard::Key' used in qualified name
+World.cpp(2018): warning C4482: nonstandard extension used: enum 'sf::Keyboard::Key' used in qualified name
+World.cpp(2087): warning C4244: 'argument' : conversion from 'const float32' to 'int', possible loss of data
+World.cpp(2087): warning C4244: 'argument' : conversion from 'const float32' to 'int', possible loss of data
+World.cpp(2111): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+World.cpp(2111): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+World.cpp(2113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+World.cpp(2113): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+  Generating code
+d:\cdata\evobox2dlatestparasites\evobox2dlatest\evobox2d\evobox2d\world.cpp(863): warning C4715: 'World::KillOrganism' : not all control paths return a value
+d:\cdata\evobox2dlatestparasites\evobox2dlatest\evobox2d\evobox2d\world.cpp(784): warning C4715: 'World::ReproduceOrganism' : not all control paths return a value
+  Finished generating code
+  Evobox2D.vcxproj -> D:\CData\Evobox2DLatestParasites\Evobox2DLatest\evobox2d\Release\Evobox2D.exe

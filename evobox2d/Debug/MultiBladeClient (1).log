@@ -1,0 +1,21 @@
+﻿Build started 14/04/2016 16:11:04.
+     1>Project "D:\Google Drive\MultiBlade\MultiBladeClient\MultiBladeClient\MultiBladeClient.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\MultiBladeClient.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\MD\Downloads\boost_1_55_0\boost_1_55_0 /I"TGUI-0.6\include\\" /I./ /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt BattleState.cpp JoiningState.cpp MultiBladeClient.cpp
+         MultiBladeClient.cpp
+         JoiningState.cpp
+         BattleState.cpp
+     1>d:\google drive\multiblade\multibladeclient\multibladeclient\battlestate.cpp(4): error C2512: 'b2World' : no appropriate default constructor available
+     1>d:\google drive\multiblade\multibladeclient\multibladeclient\battlestate.cpp(18): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\google drive\multiblade\multibladeclient\multibladeclient\battlestate.cpp(24): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\google drive\multiblade\multibladeclient\multibladeclient\battlestate.cpp(30): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\google drive\multiblade\multibladeclient\multibladeclient\battlestate.cpp(36): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\google drive\multiblade\multibladeclient\multibladeclient\battlestate.cpp(54): warning C4065: switch statement contains 'default' but no 'case' labels
+         Generating Code...
+     1>Done Building Project "D:\Google Drive\MultiBlade\MultiBladeClient\MultiBladeClient\MultiBladeClient.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.14

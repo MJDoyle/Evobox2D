@@ -1,0 +1,55 @@
+﻿Build started 18/12/2015 02:19:12.
+     1>Project "C:\Users\MD\Google Drive\SiS\SiSclient\SiSclient\SiSclient.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\SiSclient.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\MD\Downloads\boost_1_55_0\boost_1_55_0 /I"TGUI-0.6\include\\" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MenuState.cpp
+         MenuState.cpp
+     1>c:\users\md\google drive\sis\sisclient\sisclient\config.hpp(80): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\md\google drive\sis\sisclient\sisclient\config.hpp(81): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\md\google drive\sis\sisclient\sisclient\gui.hpp(32): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\gui.hpp(33): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\gui.hpp(78): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\gui.hpp(78): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\gui.hpp(79): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\gui.hpp(79): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\gui.hpp(80): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\gui.hpp(80): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\gui.hpp(97): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\gui.hpp(97): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\gui.hpp(142): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\gui.hpp(142): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\MD\Google Drive\SiS\SiSclient\Debug\SiSclient.exe" /INCREMENTAL /NOLOGO /LIBPATH:"TGUI-0.6\lib\SFML" /LIBPATH:C:\Users\MD\Downloads\boost_1_55_0\boost_1_55_0\stage\lib /LIBPATH:"TGUI-0.6\lib\TGUI" "sfml-system-d.lib" "sfml-window-d.lib" "sfml-graphics-d.lib" "sfml-audio-d.lib" "sfml-network-d.lib" "tgui-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\SiSclient.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\MD\Google Drive\SiS\SiSclient\Debug\SiSclient.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\MD\Google Drive\SiS\SiSclient\Debug\SiSclient.lib" /MACHINE:X86 Debug\SiSclient.exe.embed.manifest.res
+         Debug\AIPlayer.obj
+         Debug\AnimatedSprite.obj
+         Debug\Animation.obj
+         Debug\BuilderState.obj
+         Debug\Bullet.obj
+         Debug\FreeWeapon.obj
+         Debug\Item.obj
+         Debug\MenuState.obj
+         Debug\Player.obj
+         Debug\Projectile.obj
+         Debug\Scenario.obj
+         Debug\Ship.obj
+         Debug\SiSclient.obj
+         Debug\StateMachine.obj
+         Debug\Tile.obj
+         Debug\Tilemap.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\SiSclient.exe.embed.manifest" /manifest Debug\SiSclient.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         SiSclient.vcxproj -> C:\Users\MD\Google Drive\SiS\SiSclient\Debug\SiSclient.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\SiSclient.unsuccessfulbuild".
+         Touching "Debug\SiSclient.lastbuildstate".
+     1>Done Building Project "C:\Users\MD\Google Drive\SiS\SiSclient\SiSclient\SiSclient.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:17.76

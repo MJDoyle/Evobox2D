@@ -1,0 +1,174 @@
+﻿Build started 31/01/2016 17:59:19.
+     1>Project "C:\Users\MD\Google Drive\SiS\SiSclient\SiSclient\SiSclient.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\SiSclient.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\MD\Downloads\boost_1_55_0\boost_1_55_0 /I"TGUI-0.6\include\\" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt BuilderState.cpp MenuState.cpp Plan.cpp Scenario.cpp SiSclient.cpp
+         BuilderState.cpp
+     1>c:\users\md\google drive\sis\sisclient\sisclient\Config.hpp(80): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\md\google drive\sis\sisclient\sisclient\Config.hpp(81): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(32): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(33): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(78): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(78): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(79): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(79): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(80): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(80): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(97): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(97): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(142): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(142): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>BuilderState.cpp(41): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>BuilderState.cpp(66): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>BuilderState.cpp(72): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>BuilderState.cpp(78): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>BuilderState.cpp(84): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>BuilderState.cpp(92): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>BuilderState.cpp(92): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>BuilderState.cpp(99): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>BuilderState.cpp(99): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>BuilderState.cpp(257): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>BuilderState.cpp(257): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>BuilderState.cpp(266): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>BuilderState.cpp(266): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>BuilderState.cpp(328): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>BuilderState.cpp(335): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>BuilderState.cpp(344): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>BuilderState.cpp(353): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         MenuState.cpp
+     1>c:\users\md\google drive\sis\sisclient\sisclient\Config.hpp(80): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\md\google drive\sis\sisclient\sisclient\Config.hpp(81): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(32): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(33): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(78): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(78): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(79): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(79): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(80): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(80): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(97): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(97): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(142): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(142): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         Plan.cpp
+     1>c:\users\md\google drive\sis\sisclient\sisclient\Config.hpp(80): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\md\google drive\sis\sisclient\sisclient\Config.hpp(81): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>Plan.cpp(40): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>Plan.cpp(40): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+         Scenario.cpp
+     1>c:\users\md\google drive\sis\sisclient\sisclient\Config.hpp(80): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\md\google drive\sis\sisclient\sisclient\Config.hpp(81): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(32): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(33): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(78): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(78): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(79): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(79): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(80): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(80): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(97): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(97): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(142): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(142): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\AIPlayer.hpp(100): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\AIPlayer.hpp(100): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\Bullet.hpp(22): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\Bullet.hpp(23): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\Bullet.hpp(30): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\Bullet.hpp(31): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\Bullet.hpp(38): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\Bullet.hpp(39): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\Projectile.hpp(28): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\Projectile.hpp(29): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Scenario.cpp(44): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>Scenario.cpp(44): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>Scenario.cpp(207): warning C4065: switch statement contains 'default' but no 'case' labels
+     1>Scenario.cpp(421): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>Scenario.cpp(421): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>Scenario.cpp(425): warning C4244: 'argument' : conversion from 'float' to 'sf::Uint8', possible loss of data
+     1>Scenario.cpp(485): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Scenario.cpp(541): warning C4018: '>' : signed/unsigned mismatch
+     1>Scenario.cpp(541): warning C4018: '<' : signed/unsigned mismatch
+     1>Scenario.cpp(551): warning C4018: '>' : signed/unsigned mismatch
+     1>Scenario.cpp(551): warning C4018: '<' : signed/unsigned mismatch
+     1>Scenario.cpp(762): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Scenario.cpp(762): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Scenario.cpp(859): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Scenario.cpp(859): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Scenario.cpp(1280): warning C4244: 'argument' : conversion from 'float' to 'sf::Int16', possible loss of data
+     1>Scenario.cpp(1327): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>Scenario.cpp(1377): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>Scenario.cpp(1377): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>Scenario.cpp(1436): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Scenario.cpp(1436): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Scenario.cpp(1466): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Scenario.cpp(1466): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Scenario.cpp(1510): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Scenario.cpp(1536): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Scenario.cpp(1542): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Scenario.cpp(1590): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>Scenario.cpp(1591): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>Scenario.cpp(1605): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Scenario.cpp(1606): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Scenario.cpp(1656): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Scenario.cpp(1657): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Scenario.cpp(1661): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Scenario.cpp(1662): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Scenario.cpp(1681): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Scenario.cpp(1696): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Scenario.cpp(1729): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Scenario.cpp(1730): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Scenario.cpp(1732): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>Scenario.cpp(1768): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Scenario.cpp(1800): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Scenario.cpp(1801): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Scenario.cpp(1803): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>Scenario.cpp(1894): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>Scenario.cpp(1894): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+         SiSclient.cpp
+     1>c:\users\md\google drive\sis\sisclient\sisclient\Config.hpp(80): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\md\google drive\sis\sisclient\sisclient\Config.hpp(81): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(32): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(33): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(78): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(78): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(79): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(79): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(80): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(80): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(97): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(97): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(142): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\md\google drive\sis\sisclient\sisclient\GUI.hpp(142): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\MD\Google Drive\SiS\SiSclient\Release\SiSclient.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"TGUI-0.6\lib\SFML" /LIBPATH:C:\Users\MD\Downloads\boost_1_55_0\boost_1_55_0\stage\lib /LIBPATH:"TGUI-0.6\lib\TGUI" "sfml-system.lib" "sfml-window.lib" "sfml-graphics.lib" "sfml-audio.lib" "sfml-network.lib" tgui.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\SiSclient.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\MD\Google Drive\SiS\SiSclient\Release\SiSclient.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\MD\Google Drive\SiS\SiSclient\Release\SiSclient.lib" /MACHINE:X86 Release\AIPlayer.obj
+         Release\AnimatedSprite.obj
+         Release\Animation.obj
+         Release\BuilderState.obj
+         Release\Bullet.obj
+         Release\FreeWeapon.obj
+         Release\Item.obj
+         Release\MenuState.obj
+         Release\Plan.obj
+         Release\Player.obj
+         Release\Projectile.obj
+         Release\Scenario.obj
+         Release\Ship.obj
+         Release\SiSclient.obj
+         Release\StateMachine.obj
+         Release\Tile.obj
+         Release\Tilemap.obj
+         Generating code
+         Finished generating code
+         SiSclient.vcxproj -> C:\Users\MD\Google Drive\SiS\SiSclient\Release\SiSclient.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\MD\Google Drive\SiS\SiSclient\Release\SiSclient.exe;#1" /manifest Release\SiSclient.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\SiSclient.unsuccessfulbuild".
+         Touching "Release\SiSclient.lastbuildstate".
+     1>Done Building Project "C:\Users\MD\Google Drive\SiS\SiSclient\SiSclient\SiSclient.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.63
